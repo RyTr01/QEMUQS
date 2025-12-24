@@ -20,6 +20,9 @@ g++ main.cpp -std=c++17 -o qemuqs
 ## Windows (MinGW)
 g++ main.cpp -std=c++17 -o qemuqs.exe
 
+## Dependencias
+- nlohmann/json (single-header, incluido en el repositorio)
+
 ## Próximas actualizaciones
 - Diversas configuraciones de VMs con un menú
 - Hacer más estético QEMUQS
