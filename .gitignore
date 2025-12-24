@@ -2,4 +2,6 @@
 *.o
 *.obj
 build/
+cmake-build-*/
 config.json
+*.qcow2
