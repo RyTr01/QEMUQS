@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 #include <stdlib.h>
-#include "json.hpp"
+#include "external/json.hpp"
 #include <fstream>
 #include <locale>
 #define NOMINMAX
